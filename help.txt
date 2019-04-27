@@ -1,0 +1,11 @@
+Práve si nastúpil do novej školy, kde si objavil dievča svojich snov. Aby si ju očaril, musíš však trochu pozmeniť svoj šatník, tak aby šiel s aktuálnymi trendami v móde. 
+Aby si svoj šatník adekvátne vylepšil, musíš sledovať módu a kúpiť si kusy oblečenia, ktoré do nej akurát zapadajú.
+Móda sa bude skladať z náhodne usporiadaných štvorčekov štyroch rôznych farieb. Vždy budeš mať na výber z piatich kusov oblečenia, pričom každý bude mať štyri možné farby. Tento kus budeš musieť následne presunúť do časti módy, do ktorej pasuje - farba každého políčka sa bude musieť zhodovať s farbou módy na danom políčku. Za každý správne umiestnený kus dostaneš bod a za každý nesprávne umiestnený kus ho stratíš.
+Celý príbeh je rozdelený do jednotlivých trendov (levelov), ktoré budeš musieť prekonať. Akonáhle dostaneš určitý počet bodov, postupuješ do nového levela, ALE POZOR! Akonáhle vo svojom leveli stratíš aj posledný bod, prehráš a o svojej milej sa ti bude iba snívať...
+
+Kus oblečenia po ploche pohybuješ klávesamy W,S,A,D
+Druh oblečenia meníš klávesami V,B,N,M
+Farbu oblečenia meníš klávesami G,H,J,K
+Svoj výber potvrdíš klávesou Q
+
+Veľa šťastia pri balení!
